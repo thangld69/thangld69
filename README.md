@@ -29,8 +29,8 @@ These are some of the technologies and tools that I work with:
   <tr>
     <th>Databases</th>
     <td>
-      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?&style=flat-square&logo=postgresql&logoColor=white" />
+<!--       <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?&style=flat-square&logo=postgresql&logoColor=white" /> -->
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
@@ -47,16 +47,16 @@ These are some of the technologies and tools that I work with:
     <th>Automate, Deploy, Platform & Tools</th>
     <td>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Jenkins-DC382D?style=flat-square&logo=jenkins&logoColor=white" />
+<!--       <img src="https://img.shields.io/badge/-Jenkins-DC382D?style=flat-square&logo=jenkins&logoColor=white" /> -->
       <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /> 
-      <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white" /> 
+<!--       <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white" />  -->
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
     </td>
   </tr>
   <tr>
     <th>Testing</th>
     <td>
-      <img src="https://img.shields.io/badge/-Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white" />
+<!--       <img src="https://img.shields.io/badge/-Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white" /> -->
       <img src="https://img.shields.io/badge/Junit5-25A162.svg?&style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
@@ -76,13 +76,13 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <th>Others</th>
     <td>
       <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
       <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
     </td>
-  </tr>
+  </tr> -->
   
 </table>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -125,7 +125,7 @@ These are some of the technologies and tools that I work with:
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <br>
-<div aline="right">
+<div aline="center">
   
   ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 
