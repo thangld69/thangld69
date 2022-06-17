@@ -39,9 +39,7 @@
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 <!--
