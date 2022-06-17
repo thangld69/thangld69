@@ -39,6 +39,10 @@
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
+<br>
+<a href="#" target="_blank">
+  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
+</a>
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 
 
