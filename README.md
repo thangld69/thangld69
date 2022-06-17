@@ -39,7 +39,7 @@
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 
 
 <!--
