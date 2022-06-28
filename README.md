@@ -130,7 +130,7 @@ These are some of the technologies and tools that I work with:
 <br>
 <div aline="center">
   
-  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
+ <p>Không Ngại Khó Khăn</p>
 
 </div>
 
